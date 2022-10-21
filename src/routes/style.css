@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+
+a {
+  color: inherit;
+  display: block;
+  text-decoration: none;
+}
+ul,li {
+  list-style: none;
+}
+img {
+  max-width: 100%;
+}
